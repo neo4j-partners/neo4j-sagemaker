@@ -1,2 +1,2 @@
 # neo4j-sagemaker
-Notebooks demonstrating how to use Neo4j with SageMaker
+These are notebooks demonstrating how to use Neo4j with SageMaker.
